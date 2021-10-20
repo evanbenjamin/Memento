@@ -18,7 +18,7 @@ public class Caretaker {
     public void add(Memento state)
     {
         mementoList.add(state);
-        //System.out.println(mementoList.size());
+
     }
     
     public Memento get(int index)
